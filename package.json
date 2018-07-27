@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/nontachaiwebdev/gitlab-check-hotfixed/issues"
   },
-  "homepage": "https://github.com/nontachaiwebdev/gitlab-check-hotfixed#readme"
+  "homepage": "https://github.com/nontachaiwebdev/gitlab-check-hotfixed#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2017": "^6.24.1"
+  }
 }
