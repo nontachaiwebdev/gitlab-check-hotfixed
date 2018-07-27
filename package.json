@@ -1,0 +1,19 @@
+{
+  "name": "gitlab-check-hotfixed",
+  "version": "1.0.0",
+  "description": "This repository for web application for check commit that need to cherry-pick and deploy as hotfixed branch or tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nontachaiwebdev/gitlab-check-hotfixed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nontachaiwebdev/gitlab-check-hotfixed/issues"
+  },
+  "homepage": "https://github.com/nontachaiwebdev/gitlab-check-hotfixed#readme"
+}
